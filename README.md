@@ -1,6 +1,7 @@
 # Bachelor's Thesis
 
-**images here**
+<img src="https://user-images.githubusercontent.com/45042522/185207711-ac5b5207-9b8a-4271-9a1f-1493fe1aa630.png" width="13%"></img> <img src="https://user-images.githubusercontent.com/45042522/185207637-00ce6c4a-0c2b-42d0-b7c0-2b8c6bd01371.png" width="13%"></img>
+
 
 Here you can find what I have been working on during my studies at Slovak University of Technology.
 
