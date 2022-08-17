@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="sk.lmajercik.mushroomApp">
+
+    <uses-feature android:name="android.hardware.camera.any" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hribik"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/hribik"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CustomSplashScreenTheme"
+        tools:ignore="AllowBackup">
+        <activity
+            android:name="sk.lmajercik.mushroomApp.Tips"
+            android:exported="false"
+            android:label="@string/helptips"
+            android:parentActivityName="sk.lmajercik.mushroomApp.MainActivity"
+            android:theme="@style/Theme.ShroomApp">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="sk.lmajercik.mushroomApp.MainActivity" />
+        </activity>
+        <activity
+            android:name="sk.lmajercik.mushroomApp.History"
+            android:exported="false"
+            android:label="@string/history"
+            android:parentActivityName="sk.lmajercik.mushroomApp.MainActivity"
+            android:theme="@style/Theme.ShroomApp">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="sk.lmajercik.mushroomApp.MainActivity" />
+        </activity>
+        <activity
+            android:name="sk.lmajercik.mushroomApp.About"
+            android:exported="false"
+            android:label="@string/about"
+            android:parentActivityName="sk.lmajercik.mushroomApp.MainActivity"
+            android:theme="@style/Theme.ShroomApp">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="sk.lmajercik.mushroomApp.MainActivity" />
+        </activity>
+        <activity
+            android:name="sk.lmajercik.mushroomApp.ItemDetail"
+            android:label="@string/results"
+            android:parentActivityName="sk.lmajercik.mushroomApp.MainActivity"
+            android:theme="@style/Theme.ShroomApp">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="sk.lmajercik.mushroomApp.MainActivity" />
+        </activity>
+        <activity
+            android:name="sk.lmajercik.mushroomApp.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.CustomSplashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

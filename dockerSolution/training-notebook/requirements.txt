@@ -1,0 +1,10 @@
+jupyter
+tensorflow
+jupyterlab
+jupyter-tensorboard
+numpy
+matplotlib
+pandas
+tqdm
+seaborn
+sklearn

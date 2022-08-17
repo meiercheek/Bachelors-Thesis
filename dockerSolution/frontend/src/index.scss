@@ -1,0 +1,192 @@
+
+
+body {
+    padding : 0;
+    margin : 10px;
+  font-family: 'Roboto', sans-serif;
+  background: #1D192B;
+  color: white;
+  display:flex;
+  justify-content: center;
+}
+
+#centerLoading{
+    margin-right: 10px;
+}
+
+#centerLoadingShroom{
+    margin:auto;
+}
+
+.parentflex{
+    border: 1px solid rgb(89, 88, 88);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px
+}
+
+.padding-tops{
+    padding-top: 50px;
+}
+
+.sideways{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.previousImages {
+    margin: 40px 0 0;
+    background: #332D41;
+    padding: 10px 10px 10px 0;
+    color: rgb(0, 0, 0);
+
+    h6 {
+        margin: 10px 0;
+    }
+    
+    .recentImages {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .recentPrediction {
+        flex: 0 0 20%;
+        cursor: pointer;
+
+        @media (max-width: 1100px) {
+            flex: 0 0 25%;
+        }
+
+        @media (max-width: 870px) {
+            flex: 0 0 33.3%;
+        }
+
+        @media (max-width: 700px) {
+            flex: 0 0 50%;
+        }
+
+        img {
+            display: block;
+            width: 100%;
+            height: 200px;
+            object-fit: contain;
+
+            @media (max-width: 700px) {
+                height: 260px;
+            }
+        }
+    }
+}
+
+.App{
+    margin:auto;
+    padding-top:20px;
+}
+
+.btn{
+    cursor: pointer; 
+}
+
+.button {
+    padding: 12px 17px;
+    font-size: 18px;
+    background: rgb(41, 16, 52);
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    
+    cursor: pointer;
+
+    &:hover{
+        background: rgb(21, 5, 21);
+        color: #fff;
+    }
+}
+
+
+
+.card{
+    width:550px;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.cardHistory{
+    color: rgb(255, 255, 255);
+}
+
+.infoLoading p{
+    display: inline-block;
+    font-size: xx-large;
+}
+
+
+.mainContent {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+
+    @media (max-width: 800px) {
+        flex-direction: column;
+    }
+}
+
+img {
+    display: block;
+    width: 200px;
+    margin: auto;
+    object-fit:  contain;
+    padding: 10px;
+}
+
+.imageWrapper {
+    width: 60%;
+    display: block;
+    flex: 0 0 60%;
+    max-width: 900px;
+    height: 70vmin;
+
+    @media (max-width: 800px) {
+        width: 100%;
+        height: auto;
+        margin-bottom: 15px;
+    }
+
+    &:empty {
+        display: none;
+    }
+
+    
+}
+
+.inputWrapper { 
+    padding: 0 10px;
+    display: flex; 
+
+    .uploadInput { 
+        width: 0px;
+        height: 0px;
+        visibility: hidden;
+        opacity: 0;
+    }
+
+    .or {
+        align-items: center;
+        display: inline-flex;
+        padding: 0 20px;
+    }
+
+    .uploadImage {
+        padding: 8px 16px;
+        font-size: 16px;
+        background: #333;
+        color: rgb(0, 0, 0);
+        display: inline-block;
+        border: 0;
+        border-radius: 0;
+        cursor: pointer;
+        outline: none;
+    }
+}
+
+
+

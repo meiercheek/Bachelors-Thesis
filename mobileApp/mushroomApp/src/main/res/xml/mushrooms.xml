@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <mushrooms name="Agaricus_arvensis">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms name="Amanita_muscaria">
+        <edibility>false</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Amanita_pantherina">
+        <edibility>false</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Amanita_phalloides">
+        <edibility>false</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Auricularia_auricula_judae">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Boletus_reticulatus">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Calocera_viscosa">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Cantharellus_cibarius">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Chlorociboria_aeruginascens">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Cortinarius_semisanguineus">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Cortinarius_violaceus">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Galerina_marginata">
+        <edibility>true</edibility>
+        <description> hribik</description>
+        <image>image id</image>
+    </mushrooms>
+
+    <mushrooms id="Gyromitra_esculenta">
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Hygrocybe_cantharellus</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Lactarius_deliciosus</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Leccinum_scabrum</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Lepista_nuda</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Macrolepiota_procera</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Pleurotus_ostreatus</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Rubroboletus_satanas</id>
+        <edibility>false</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Russula_cyanoxantha</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Russula_lepida</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Sarcoscypha_austriaca</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+    <mushrooms>
+        <id>Suillus_luteus</id>
+        <edibility>true</edibility>
+    </mushrooms>
+
+</resources>

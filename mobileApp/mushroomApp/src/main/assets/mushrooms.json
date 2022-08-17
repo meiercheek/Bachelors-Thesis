@@ -1,0 +1,217 @@
+[
+  {
+    "id": "Agaricus_arvensis",
+    "edibility": "true",
+    "description": "hribik",
+    "author": "Von.grzanka",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Pieczarka_polowa_vongrzanka.JPG",
+    "wikiLink": "https://en.wikipedia.org/wiki/Agaricus_arvensis"
+  },
+  {
+    "id": "Amanita_muscaria",
+    "edibility": "poison",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Onderwijsgek at nl.wikipedia",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Amanita_muscaria_3_vliegenzwammen_op_rij.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Amanita_muscaria"
+  },
+  {
+    "id": "Amanita_pantherina",
+    "edibility": "poison",
+    "description": "hribik",
+    "image": "image id",
+	"author": "George Chernilevsky",
+    "license": "Public domain",
+    "link": "https://en.wikipedia.org/wiki/File:Amanita_pantherina_2013_G1.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Amanita_pantherina"
+  },
+  {
+    "id": "Amanita_phalloides",
+    "edibility": "poison",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Archenzo",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Amanita_phalloides_1.JPG",
+    "wikiLink": "https://en.wikipedia.org/wiki/Amanita_phalloides"
+  },
+  {
+    "id": "Auricularia_auricula_judae",
+    "edibility": "true",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Josh Milburn",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Auricularia_auricula-judae_64485.JPG",
+    "wikiLink": "https://en.wikipedia.org/wiki/Auricularia_auricula-judae"
+  },
+  {
+    "id": "Boletus_reticulatus_edulis",
+    "edibility": "true",
+    "description": "hribik",
+    "image": "image id",
+	"author": "I, Rude",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Boletus.JPG",
+    "wikiLink": "https://en.wikipedia.org/wiki/Boletus_reticulatus"
+  },
+  {
+    "id": "Calocera_viscosa",
+    "edibility": "false",
+    "description": "hribik",
+    "image": "image id",
+	"author": "1benjones",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Cviscosa_wiki.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Calocera_viscosa"
+  },
+  {
+    "id": "Cantharellus_cibarius",
+    "edibility": "true",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Strobilomyces",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Chanterelle_Cantharellus_cibarius.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Cantharellus_cibarius"
+  },
+  {
+    "id": "Chlorociboria_aeruginascens",
+    "edibility": "false",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Sava Krstic",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Chlorociboria_aeruginascens-336907.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Chlorociboria_aeruginascens"
+  },
+  {
+    "id": "Cortinarius_semisanguineus",
+    "edibility": "false",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Frank Gardiner aka Zonda Grattus",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Cort_semi.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Cortinarius_semisanguineus"
+  },
+  {
+    "id": "Cortinarius_violaceus",
+    "edibility": "false",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Dan Molter (shroomydan)",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:2008-08-22_Cortinarius_violaceus_(L.)_Gray_18241.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Cortinarius_violaceus"
+  },
+  {
+    "id": "Galerina_marginata",
+    "edibility": "poison",
+    "description": "hribik",
+    "image": "image id",
+	"author": "Alan Rockefeller",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Galerina_marginata_Point_Reyes.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Galerina_marginata"
+  },
+  {
+    "id": "Gyromitra_esculenta",
+    "edibility": "poison-cook",
+	"author": "Severine Meißner",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Fr%C3%BChjahrslorchel.JPG",
+    "wikiLink": "https://en.wikipedia.org/wiki/Gyromitra_esculenta"
+  },
+  {
+    "id": "Hygrocybe_cantharellus",
+    "edibility": "false",
+	"author": "{{{2}}} at Mushroom Observer",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:2011-06-17_Hygrocybe_cantharellus_69428_cropped.jpg",
+    "wikiLink": "https://pl.wikipedia.org/wiki/Wilgotnica_lejkowata"
+  },
+  {
+    "id": "Lactarius_deliciosus",
+    "edibility": "true",
+	"author": "Eric Steinert",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Lactarius_deliciosus.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Lactarius_deliciosus"
+  },
+  {
+    "id": "Leccinum_scabrum",
+    "edibility": "true",
+	"author": "Olaf1541",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Birkenpilz01.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Leccinum_scabrum"
+  },
+  {
+    "id": "Lepista_nuda",
+    "edibility": "inedible-cook",
+	"author": "Jimmie Veitch (jimmiev)",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Clitocybe_nuda_(Fr.)_H.E._Bigelow_%26_A.H._Sm_267650.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Clitocybe_nuda"
+  },
+  {
+    "id": "Macrolepiota_procera",
+    "edibility": "true",
+	"author": "BMT at English Wikipedia",
+    "license": "Public domain",
+    "link": "https://en.wikipedia.org/wiki/File:ParasolMushroom.JPG",
+    "wikiLink": "https://en.wikipedia.org/wiki/Pleurotus_ostreatus"
+  },
+  {
+    "id": "Pleurotus_ostreatus",
+    "edibility": "true",
+	"author": "Jean-Pol GRANDMONT",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Pleurotus_ostreatus_JPG7.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Agaricus_arvensis"
+  },
+  {
+    "id": "Rubroboletus_satanas",
+    "edibility": "poison",
+	"author": "Holger Krisp",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Satans-R%C3%B6hrling_Boletus_satanas.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Rubroboletus_satanas"
+  },
+  {
+    "id": "Russula_cyanoxantha",
+    "edibility": "true",
+	"author": "Panterka",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://en.wikipedia.org/wiki/File:Russula_cyanoxantha.JPG",
+    "wikiLink": "https://en.wikipedia.org/wiki/Russula_cyanoxantha"
+  },
+  {
+    "id": "Russula_lepida",
+    "edibility": "false",
+	"author": "zaca at Mushroom Observer",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://commons.wikimedia.org/wiki/File:2011-05-14_Russula_lepida_146790.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Russula_rosea"
+  },
+  {
+    "id": "Sarcoscypha_austriaca",
+    "edibility": "false",
+	"author": "Dan Molter (shroomydan)",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://commons.wikimedia.org/wiki/File:Sarcoscypha_austriaca_81949.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Sarcoscypha_austriaca"
+  },
+  {
+    "id": "Suillus_luteus",
+    "edibility": "true",
+	"author": "walt sturgeon (Mycowalt)",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "link": "https://commons.wikimedia.org/wiki/File:Suillus_luteus_475376.jpg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Suillus_luteus"
+  }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MushroomApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MushroomApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mushroomApp/MushroomApp.mushroomApp.iml" filepath="$PROJECT_DIR$/.idea/modules/mushroomApp/MushroomApp.mushroomApp.iml" />
+    </modules>
+  </component>
+</project>
